@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipaxeaya.github.io/DTG/sitemap_index.txt
+Sitemap: https://ipaxeaya.github.io/Ovf/sitemap_index.txt
+Sitemap: https://ipaxeaya.github.io/XsI/sitemap_index.txt
+Sitemap: https://ipaxeaya.github.io/ktn/sitemap_index.txt
